@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Jaime
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -78,17 +78,6 @@ const jaimemen897 = {
   <img src="https://github-profile-trophy.vercel.app/?username=jaimemen897&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/jaimemen897/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaimemen897&repo=proyecto1&theme=radical" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/jaimemen897/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaimemen897&repo=proyecto2&theme=radical" alt="Proyecto 2" />
-  </a>
-</div>
-
 ## 📈 Actividad de Contribuciones
 
 <div align="center">
@@ -98,16 +87,16 @@ const jaimemen897 = {
 ## 🌐 Conéctate conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/jaime-medina-méndez-0163542b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:jaimemen897@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://jaimemen897.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
 </div>
